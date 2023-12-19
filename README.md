@@ -1,2 +1,2 @@
-# rr
-request/response command-line utility
+# rar
+request-and-response
