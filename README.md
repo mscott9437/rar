@@ -1,2 +1,2 @@
 # rar
-request-and-response
+Programming language for APIs, implemented in Zig
